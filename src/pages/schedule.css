@@ -1,0 +1,55 @@
+.schedule-container{
+    width: 90vw;
+    align-items: center;
+}
+
+.task-tab{
+    margin: 20px;
+    margin-top: 8vh;
+    padding: 0;
+}
+
+.task-tab > button{
+    background-color:transparent;
+    border: 1px solid var(--primary-color);
+    font-size: 32px;
+    color:var(--primary-color);
+    width: 15vw;
+}
+
+.day-button-container > button{
+    background-color: var(--primary-color);
+    border: none;
+    border-radius: 12px;
+    font-size: 24px;
+    color: white;
+    width: 3vw;
+    height: 3vw;
+    margin: 10px 20px;
+}
+
+.day-info-container{
+    color: var(--primary-color);
+    margin-top: 20px;
+}
+
+.day-info-container > h2{
+    color: var(--primary-color);
+    font-size: 36px;
+} 
+
+.day-info-container > button{
+    height: 15px;
+    width: 15px;
+    margin-left: 10px;
+    background-color: transparent;
+    border: 1px solid var(--primary-color);
+    border-radius: 3px;
+    color: var(--primary-color);
+} 
+
+.current-date{
+    text-align: center;
+    font-size: 18px;
+    color: var(--primary-color);
+}
