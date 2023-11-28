@@ -1,0 +1,10 @@
+
+.header-logo{
+    color:var(--primary-color);
+    font-size: 32px;
+}
+
+.login-btn{
+    width: 3vw;
+    text-align: center;
+}
