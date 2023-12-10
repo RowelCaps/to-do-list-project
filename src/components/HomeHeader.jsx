@@ -6,7 +6,7 @@ export default function HomeHeader(){
     return(
         <header className='header-top'>
             <h2 className='header-logo mp-0'>Rolo</h2>
-            <Link className='primary-button login-btn' to='login'>LOGIN</Link>
+            <Link className='primary-button login-btn' to='user'>LOGIN</Link>
         </header>
     )
 }

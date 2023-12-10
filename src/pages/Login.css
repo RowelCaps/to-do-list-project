@@ -1,0 +1,19 @@
+.login-container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.login-logo{
+    position: absolute;
+    color: var(--primary-color);
+    font-size: 32px;
+}
+
+.login-input-container{
+    height: 100%;
+}
+
+.login-input-container  h3{
+    color: var(--primary-color);
+    font-size: 36px;
+}

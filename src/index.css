@@ -50,3 +50,17 @@ a{
     height: 7vh;
     box-shadow: 1px 1px 5px black;
 }
+
+.flex{
+    display: flex;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+.ja-center{
+    justify-content: center;
+    align-items: center;
+}
+

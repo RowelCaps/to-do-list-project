@@ -5,7 +5,6 @@ import HomeHeader from './HomeHeader'
 export default function Layout(){
     return(
         <div>
-            <HomeHeader />
             <Outlet />
         </div>
     )
